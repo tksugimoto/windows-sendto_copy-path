@@ -3,7 +3,7 @@
 ## 対応書式
 * Markdown  
   `[C:\\Program Files\\Git](file:///C:/Program Files/Git "file:///C:/Program Files/Git")`
-* Huki(Wikiクローン)  
+* Hiki(Wikiクローン)  
   `[[C:\Program Files\Git|file:///C:/Program Files/Git]]`
 
 
