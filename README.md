@@ -4,6 +4,7 @@
 * ファイルのパスをコピー
 	* Markdown書式
 	* Hiki(Wikiクローン)書式
+	* File URI書式
 * Hash計算
 	* MD5
 	* SHA256
