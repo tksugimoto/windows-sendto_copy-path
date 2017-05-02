@@ -5,7 +5,8 @@
 	`[C:\\Program Files\\Git](file:///C:/Program Files/Git "file:///C:/Program Files/Git")`
 * Hiki(Wikiクローン)  
 	`[[C:\Program Files\Git|file:///C:/Program Files/Git]]`
-
+* File URI  
+	`file://localhost/C:/Program%20Files/Git`
 
 ## セットアップ
 1. このリポジトリをCloneする
@@ -14,5 +15,6 @@
 	* エクスプローラー（<kbd>Windows</kbd> + <kbd>E</kbd>）
 1. 「送る」フォルダに使いたいcmdファイルのショートカットを作成  
 	※  ショートカット名は自由に変更可
+	* パスをfile-URI書式でコピー.cmd
 	* パスをHikiWiki書式でコピー.cmd
 	* パスをMarkdown書式でコピー.cmd
