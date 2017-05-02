@@ -6,7 +6,7 @@
 * Hiki(Wikiクローン)  
 	`[[C:\Program Files\Git|file:///C:/Program Files/Git]]`
 * File URI  
-	`file:///C:/Program%20Files/Git`
+	`file://localhost/C:/Program%20Files/Git`
 
 ## セットアップ
 1. このリポジトリをCloneする
