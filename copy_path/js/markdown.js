@@ -6,7 +6,7 @@ if (args.length === 1) {
 	var tooltip = url;
 	var data = {
 		title: title,
-		url: url,
+		url: encodeURI(url),
 		tooltip: tooltip
 	};
 	var format = '[{{title}}]({{url}} "{{tooltip}}")';
