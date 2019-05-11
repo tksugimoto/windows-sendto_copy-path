@@ -7,6 +7,7 @@
 	* File URI書式
 * Hash計算
 	* MD5
+	* SHA1
 	* SHA256
 	* SHA512
 
