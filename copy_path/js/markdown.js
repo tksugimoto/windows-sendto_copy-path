@@ -1,6 +1,6 @@
 var args = WScript.arguments;
-if (args.length === 1) {
-	var path = args(0);
+if (args.length === 2) {
+	var path = args(1);
 	var title = path.replace(/`|~|_|\[|\]|\\/g, "\\$&");
 	var url = "file:///" + path.replace(/\\/g, "/").replace(/[)]/g, "\\)");
 	var tooltip = url;
